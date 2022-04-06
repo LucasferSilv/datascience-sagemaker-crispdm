@@ -1,1 +1,1 @@
-# datascience-sagemaker-lucasfernadessilva
+# datascience-sagemaker-crispdm
